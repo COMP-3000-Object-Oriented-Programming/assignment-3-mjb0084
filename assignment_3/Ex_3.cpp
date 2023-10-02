@@ -53,10 +53,6 @@ int main(void){
             count = 1;
         }
     } 
-    cout << "\nArray: ";
-    for (int i=0;i<length;i++){
-        cout << inArray[i];
-    }
     
 }
 
